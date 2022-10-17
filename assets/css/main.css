@@ -303,7 +303,7 @@ section {
 .header .btn-book-a-table:focus {
   font-size: 14px;
   color: #fff;
-  background: #815624;
+  background: var(--color-primary);
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 50px;
@@ -313,7 +313,7 @@ section {
 .header .btn-book-a-table:hover,
 .header .btn-book-a-table:focus:hover {
   color: #fff;
-  background: rgba(182, 170, 5, 0.8);
+  background: rgba(206, 18, 18, 0.8);
 }
 
 section {
@@ -744,7 +744,7 @@ section {
 --------------------------------------------------------------*/
 .why-us .why-box {
   padding: 30px;
-  background: #815624;
+  background: var(--color-primary);
   color: #fff;
 }
 
